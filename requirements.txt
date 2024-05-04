@@ -9,3 +9,5 @@ faiss-cpu
 langchainhub
 groq
 langchain-groq
+HuggingFaceEmbeddings
+sentence-transformers
