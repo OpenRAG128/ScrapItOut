@@ -1,0 +1,18 @@
+streamlit
+langchain
+langchain-google-genai
+langchain_core
+python-dotenv
+langchain-community
+langserve
+sse_starlette
+bs4
+faiss-cpu
+google-cloud-aiplatform
+langchainhub
+langchain-google-vertexai
+groq
+langchain-groq
+
+
+st.session_state.embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001", google_api_key="AIzaSyBEg09Y06YPFAGAzbaVcgiiPhgBx5St6XQ")
