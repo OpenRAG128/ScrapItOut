@@ -10,7 +10,6 @@ from langchain_community.document_loaders.recursive_url_loader import RecursiveU
 from bs4 import BeautifulSoup as Soup
 import time
 from langchain.embeddings import HuggingFaceEmbeddings
-from streamlit_option_menu import option_menu
 
 
 st.sidebar.title("OpenRAG")
